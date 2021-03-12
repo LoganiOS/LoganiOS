@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LoganiOS iOS Developer.
+- 👀 I’m interested in ... Movie
+- 🌱 I’m currently learning ... Swift, RxSwift etc.
+- 📫 How to reach me ... mr.rnrnrn@gmail.com
